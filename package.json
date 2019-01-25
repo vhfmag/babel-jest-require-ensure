@@ -7,6 +7,6 @@
   "author": "Ziad Saab <ziad.saab@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "@babel/core": "^7"
+    "babel-jest": "^23"
   }
 }
